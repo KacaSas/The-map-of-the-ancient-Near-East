@@ -1,6 +1,6 @@
 # The map of the ancient Near East
-![Repository size](https://img.shields.io/github/repo-size/vuejs/vue)
-![Latest commit dat](https://img.shields.io/github/last-commit/vuejs/vue)
+![Repository size](https://img.shields.io/github/repo-size/KacaSas/The-map-of-the-ancient-Near-East)
+![Latest commit date](https://img.shields.io/github/last-commit/KacaSas/The-map-of-the-ancient-Near-East)
 
 The map of the ancient Near East and the route of the campaign of Tukultī-Ninurta II in 885 BCE. This map is still under construction! Positions of sites, provinces, and territories may be inaccurate; some data are incomplete!
 
