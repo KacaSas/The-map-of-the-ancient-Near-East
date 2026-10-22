@@ -8,3 +8,7 @@ The data file (.csv) is available at the <a href="https://cnat.zcu.cz/" target="
 
 ## Deployment
 https://home.zcu.cz/~ksaskova/map/AncientNearEast.html
+
+## Screenshot
+![Screenshot](images/Screenshot-Map.jpg)
+
